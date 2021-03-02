@@ -5,6 +5,7 @@ WebRTC component designed for Vue.js ... See the [DEMO](https://westonsoftware.g
 
 <p align="center">
     <img src="assets/screenshot.png">
+    <!---comment-->
 </p>
 
 [![Join](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/westonsoftware/vue-webrtc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
